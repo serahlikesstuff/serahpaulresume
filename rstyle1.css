@@ -1,4 +1,7 @@
 /* CSS Document */
+html {
+  scroll-behavior: smooth;
+}
 body{margin:0; padding:0; background-color: #02041D; overflow-x: hidden;}
 p, li{font-family: arial, sans-serif; font-size: 20px;	color: #AAC1CB;}
 h1, h2 {
@@ -319,3 +322,4 @@ width: 100vw;}
   margin-bottom: -60px;
   margin-top: 620px;
 }
+
